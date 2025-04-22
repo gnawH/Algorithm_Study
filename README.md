@@ -22,11 +22,11 @@
   </tr>
   <tr>
     <td>4주차</td>
-    <td>그리디</td>
+    <td><s>그리디</s></td>
   </tr>
   <tr>
     <td>5주차</td>
-    <td>정수론</td>
+    <td><s>정수론</s></td>
   </tr>
   <tr>
     <td>6주차</td>
